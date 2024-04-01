@@ -44,18 +44,19 @@
   justify-content: center;
 }
 .testimonial-card1-text {
-  color: var(--dl-color-gray-500);
+  color: var(--dl-color-custom-neutral-dark);
   text-align: center;
   margin-bottom: var(--dl-space-space-threeunits);
   justify-content: center;
 }
 .testimonial-card1-text1 {
+  color: var(--dl-color-custom-neutral-dark);
   font-size: 1.5rem;
   font-weight: 300;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .testimonial-card1-text2 {
-  color: var(--dl-color-gray-500);
+  color: var(--dl-color-custom-neutral-dark);
   display: none;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
